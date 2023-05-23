@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="administarareJoc.cs" />
+    <Compile Include="AdministrareJocuri.cs" />
     <Compile Include="administrareUser.cs" />
     <Compile Include="Joc.cs" />
     <Compile Include="Program.cs" />
