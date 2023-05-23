@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AdministrareJocuri.cs" />
-    <Compile Include="administrareUser.cs" />
+    <Compile Include="AdministrareUtilizatori.cs" />
     <Compile Include="Joc.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
