@@ -43,8 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="administarareJoc.cs" />
-    <Compile Include="administrareUser.cs" />
+    <Compile Include="AdministrareJocuri.cs" />
+    <Compile Include="AdministrareUtilizatori.cs" />
     <Compile Include="Joc.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
